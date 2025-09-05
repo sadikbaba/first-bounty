@@ -30,6 +30,7 @@
 - [PortSwigger – File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 - [A complete guide to finding advanced file upload vulnerabilities](https://www.intigriti.com/researchers/blog/hacking-tools/insecure-file-uploads-a-complete-guide-to-finding-advanced-file-upload-vulnerabilities)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Upload%20Insecure%20Files/README.md)
+
 **Practice:**  
 - [PortSwigger Labs – File Upload Vulnerabilities](https://portswigger.net/web-security/all-labs#file-upload-vulnerabilities)  
 - [Root-Me – File Upload Challenges](https://www.root-me.org/?page=recherche&lang=en&recherche=file+upload)  
