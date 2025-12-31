@@ -288,3 +288,13 @@ You can also open an **Issue** 🐛 if you spot something that needs fixing.
 ## 📬 Contact
 
 If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
+
+
+## My contribution
+
+learn the logic and Syntex. 
+then use it to build demo of something you think on your own.
+
+do not chas for tutorial compilation. understand it instead.
+
+dont write what you don't understand.
